@@ -31,3 +31,7 @@ not live without."
 ## General
 
 -   [Guice](https://github.com/google/guice) - A lightweight dependency injection framework for Java 6 and above.
+
+## Build
+
+-   [indra](https://github.com/kyoripowered/indra) - A set of Gradle plugins to apply common organization build settings.
