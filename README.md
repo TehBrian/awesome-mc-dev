@@ -22,7 +22,7 @@ not live without."
 
 ## Configuration
 
--   [configurate](https://github.com/SpongePowered/Configurate) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation
+-   [Configurate](https://github.com/SpongePowered/Configurate) - A simple configuration library for Java applications providing a node structure, a variety of formats, and tools for transformation
 
 ## Commands
 
